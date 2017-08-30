@@ -1,8 +1,11 @@
 {
-  "name": "sass-to-json",
+  "name": "sass-vars-react-native",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin" : {
+    "sass-vars-react-native" : "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
